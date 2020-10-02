@@ -1,4 +1,3 @@
-
 from flask import Flask, render_template, redirect, url_for, Response, jsonify
 from bson import json_util
 from flask_pymongo import PyMongo
