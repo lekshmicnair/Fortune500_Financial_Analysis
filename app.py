@@ -1,3 +1,4 @@
+
 from flask import Flask, render_template, redirect, url_for, Response, jsonify
 from bson import json_util
 from flask_pymongo import PyMongo
@@ -18,7 +19,7 @@ CORS(app, resources={
 app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['CORS_ORIGINS'] = '*'
 # Use flask_pymongo to set up mongo connection
-app.config["MONGO_URI"] = "mongodb://localhost:27017/fortune3"
+app.config["MONGO_URI"] = "mongodb://localhost:27017/fortune500"
 mongo = PyMongo(app)
 
 
@@ -34,15 +35,22 @@ def index():
 def map():
    return render_template('map.html')
 
+# Stock Page Rendering 
+@app.route('/stock')
+def stock():
+   return render_template('stock.html')
+
 
 # API endpoint for geomap data
 @app.route("/api/map" , methods=['GET'])
 def mapData():
  
-    results = mongo.db.company.find({})
+    results = mongo.db.companyList.find({})
     mapData = pd.DataFrame(results)
     mapjson = json.loads(json_util.dumps(mapData))
     return jsonify(mapjson)
+
+
 
 
 if __name__ == "__main__":
