@@ -10,7 +10,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   tileSize: 512,
   maxZoom: 18,
   zoomOffset: -1,
-  id: "mapbox/streets-v11",
+  id: "mapbox/light-v10",
   accessToken: API_KEY
 }).addTo(myMap);
 
@@ -39,24 +39,28 @@ d3.json(url, function(response) {
   //console.log(arrayObject[6])
 
   //Declare the variables
-  var lat = arrayObject[6];
-  var long = arrayObject[7];
-  var title = arrayObject[19];
+  var lat = arrayObject[5];
+  var long = arrayObject[6];
+  var title = arrayObject[3];
+  var rank = arrayObject[11];
+  var profit =arrayObject[10];
+  var revenue = arrayObject[13];
   console.log(long[0]);
 
 // Loop through data
 for (var i = 0; i < 500; i++) {
-  //console.log(lat[i])
+  //console.log(lat[i]);
+  //console.log(long[i]);
   
   // Add a new marker to the cluster group and bind a pop-up
   //
   markers.addLayer(L.marker(
-    L.latLng(
-      parseFloat(lat[i]),
-      parseFloat(long[i])
+  L.latLng(
+      (lat[i]),
+      (long[i])
     )
-  ).bindPopup(title[i], arrayObject[18]));
-  //markers.addLayer(L.marker(lat[i], long[i]).bindPopup(title[i]));
+  ).bindPopup("Company:"+title[i]+"<br> Rank:"+rank[i]+"<br> Profit($M):"+profit[i]+"<br> Revenue($M):"+revenue[i]));
+ // markers.addLayer(L.marker(parseFloat(lat[i]), parseFloat(long[i])).bindPopup(title[i]));
   
 }
   // Add our marker cluster layer to the map

@@ -12,18 +12,18 @@
 10,11,Alphabet,"118,899",4,"$161,857 ",18.30%,"$34,343.00 ",11.70%,"$275,909 ","$798,905 ",Technology,Internet Services and Retailing,Mountain View,CA,37.3860517,-122.08385109999999
 11,12,Ford Motor,"190,000",-,"$155,900 ",-2.80%,$47.00 ,-98.70%,"$258,537 ","$19,151 ",Motor Vehicles &  Parts,Motor Vehicles and Parts,Dearborn,MI,42.3222599,-83.1763145
 12,13,Cigna,"73,700",52,"$153,566 ",215.70%,"$5,104.00 ",93.60%,"$155,774 ","$65,897 ",Health Care,Health Care: Insurance and Managed Care,Bloomfield,CT,41.826488,-72.73009449999999
-13,14,Costco Wholesale,"201,500",-,"$152,703 ",7.90%,"$3,659.00 ",16.80%,"$45,400 ","$125,908 ",,,,,,
+13,14,Costco Wholesale,"201,500",-,"$152,703 ",7.90%,"$3,659.00 ",16.80%,"$45,400 ","$125,908 ",Retailing,General Merchandisers,Issaquah,WA,47.5301011,-122.03261909999999
 14,15,Chevron,"48,200",-4,"$146,516 ",-11.90%,"$2,924.00 ",-80.30%,"$237,428 ","$136,176 ",Energy,Petroleum Refining,San Ramon,CA,37.7799273,-121.9780153
 15,16,Cardinal Health,"49,500",-,"$145,534 ",6.40%,"$1,363.00 ",432.40%,"$40,963 ","$13,988 ",Wholesalers,Wholesalers: Health Care,Dublin,OH,40.0992294,-83.11407709999999
 16,17,JPMorgan Chase,"256,981",1,"$142,422 ",8.40%,"$36,431.00 ",12.20%,"$2,687,379 ","$276,750 ",Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
 17,18,General Motors,"164,000",-5,"$137,237 ",-6.70%,"$6,732.00 ",-16.00%,"$228,037 ","$29,695 ",Motor Vehicles &  Parts,Motor Vehicles and Parts,Detroit,MI,42.331427000000005,-83.0457538
 18,19,Walgreens Boots Alliance,"287,000",-2,"$136,866 ",4.10%,"$3,982.00 ",-20.70%,"$67,598 ","$40,528 ",Food &  Drug Stores,Food and Drug Stores,Deerfield,IL,42.171136499999996,-87.8445119
-19,20,Verizon Communications,"135,000",-1,"$131,868 ",0.80%,"$19,265.00 ",24.10%,"$291,727 ","$222,220 ",,,,,,
+19,20,Verizon Communications,"135,000",-1,"$131,868 ",0.80%,"$19,265.00 ",24.10%,"$291,727 ","$222,220 ",Telecommunications,Telecommunications,New York,NY,40.7127753,-74.0059728
 20,21,Microsoft,"144,000",5,"$125,843 ",14.00%,"$39,240.00 ",136.80%,"$286,556 ","$1,199,550 ",Technology,Computer Software,Redmond,WA,47.6739881,-122.12151200000001
 21,22,Marathon Petroleum,"60,910",9,"$124,813 ",28.50%,"$2,637.00 ",-5.10%,"$98,556 ","$15,353 ",Energy,Petroleum Refining,Findlay,OH,41.04422,-83.6499321
 22,23,Kroger,"435,000",-3,"$122,286 ",0.90%,"$1,659.00 ",-46.70%,"$45,256 ","$24,114 ",Food &  Drug Stores,Food and Drug Stores,Cincinnati,OH,39.103118200000004,-84.5120196
 23,24,Fannie Mae,"7,500",-2,"$120,304 ",0.20%,"$14,160.00 ",-11.30%,"$3,503,319 ","$1,841 ",Financials,Diversified Financials,Leavenworth,WA,47.751074100000004,-120.7401385
-24,25,Bank of America,"208,131",-,"$113,589 ",2.70%,"$27,430.00 ",-2.50%,"$2,434,079 ","$185,227 ",,,,,,
+24,25,Bank of America,"208,131",-,"$113,589 ",2.70%,"$27,430.00 ",-2.50%,"$2,434,079 ","$185,227 ",Financials,Commercial Banks,Charlotte,NC,35.2270869,-80.8431267
 25,26,Home Depot,"415,700",1,"$110,225 ",1.90%,"$11,242.00 ",1.10%,"$51,236 ","$200,665 ",Retailing,Specialty Retailers: Other,Atlanta,GA,33.7489954,-84.3879824
 26,27,Phillips 66,"14,500",-4,"$109,559 ",-4.10%,"$3,076.00 ",-45.00%,"$58,720 ","$23,490 ",Energy,Petroleum Refining,Houston,TX,29.7604267,-95.36980279999999
 27,28,Comcast,"190,000",4,"$108,942 ",15.30%,"$13,057.00 ",11.30%,"$263,414 ","$156,533 ",Telecommunications,Telecommunications,Philadelphia,PA,39.9525839,-75.1652215
@@ -34,30 +34,30 @@
 32,33,General Electric,"205,000",-12,"$95,214 ",-20.80%,"($4,979.00)",-,"$266,048 ","$69,406 ",Industrials,Industrial Machinery,Boston,MA,42.360082500000004,-71.0588801
 33,34,Dell Technologies,"165,000",-,"$92,154 ",1.70%,"$4,616.00 ",-,"$118,861 ","$29,246 ",Technology,"Computers, Office Equipment",Round Rock,TX,30.508255100000003,-97.678896
 34,35,Johnson & Johnson,"132,200",2,"$82,059 ",0.60%,"$15,119.00 ",-1.20%,"$157,728 ","$345,705 ",Health Care,Pharmaceuticals,New Brunswick,NJ,40.4862157,-74.4518188
-35,36,State Farm Insurance,"57,672",-,"$79,395 ",-2.90%,"$5,592.70 ",-36.40%,"$294,823 ",-,,,,,,
+35,36,State Farm Insurance,"57,672",-,"$79,395 ",-2.90%,"$5,592.70 ",-36.40%,"$294,823 ",-,Financials,Insurance: Property and Casualty (Mutual),Bloomington,IL,40.4842027,-88.9936873
 36,37,Target,"368,000",2,"$78,112 ",3.70%,"$3,281.00 ",11.70%,"$42,779 ","$46,574 ",Retailing,General Merchandisers,Minneapolis,MN,44.977753,-93.2650108
 37,38,IBM,"383,800",-,"$77,147 ",-3.10%,"$9,431.00 ",8.10%,"$152,186 ","$98,551 ",Technology,Information Technology Services,Armonk,NY,41.1264849,-73.71401949999999
-38,39,Raytheon Technologies,"243,200",7,"$77,046 ",15.90%,"$5,537.00 ",5.10%,"$139,716 ","$81,705 ",,,,,,
+38,39,Raytheon Technologies,"243,200",7,"$77,046 ",15.90%,"$5,537.00 ",5.10%,"$139,716 ","$81,705 ",Aerospace &  Defense,Aerospace and Defense,Waltham,MA,42.376485200000005,-71.2356113
 39,40,Boeing,"161,100",-12,"$76,559 ",-24.30%,($636.00),-106.10%,"$133,625 ","$84,149 ",Aerospace &  Defense,Aerospace and Defense,Chicago,IL,41.8781136,-87.62979820000001
 40,41,Freddie Mac,"6,892",-1,"$75,125 ",2.10%,"$7,214.00 ",-21.90%,"$2,203,623 ",$909 ,Financials,Diversified Financials,McLean,VA,38.933867600000006,-77.17726040000001
 41,42,Centene,"56,600",9,"$74,639 ",24.20%,"$1,321.00 ",46.80%,"$40,994 ","$34,862 ",Health Care,Health Care: Insurance and Managed Care,St. Louis,MO,38.6270025,-90.1994042
-42,43,United Parcel Service,"377,640",-2,"$74,094 ",3.10%,"$4,440.00 ",-7.30%,"$57,857 ","$80,196 ",,,,,,
-43,44,Lowe's,"260,000",-2,"$72,148 ",1.20%,"$4,281.00 ",85.00%,"$39,471 ","$64,963 ",,,,,,
+42,43,United Parcel Service,"377,640",-2,"$74,094 ",3.10%,"$4,440.00 ",-7.30%,"$57,857 ","$80,196 ",Transportation,"Mail, Package, and Freight Delivery",Atlanta,GA,33.7489954,-84.3879824
+43,44,Lowe's,"260,000",-2,"$72,148 ",1.20%,"$4,281.00 ",85.00%,"$39,471 ","$64,963 ",Retailing,Specialty Retailers: Other,Mooresville,NC,35.5848596,-80.81007240000001
 44,45,Intel,"110,800",-2,"$71,965 ",1.60%,"$21,048.00 ",-,"$136,524 ","$231,662 ",Technology,Semiconductors and Other Electronic Components,Santa Clara,CA,37.354107899999995,-121.9552356
 45,46,Facebook,"44,942",11,"$70,697 ",26.60%,"$18,485.00 ",-16.40%,"$133,376 ","$475,455 ",Technology,Internet Services and Retailing,Menlo Park,CA,37.4529598,-122.1817252
 46,47,FedEx,"389,500",-,"$69,693 ",6.50%,$540.00 ,-88.20%,"$54,403 ","$31,679 ",Transportation,"Mail, Package, and Freight Delivery",Memphis,TN,35.1495343,-90.0489801
 47,48,MetLife,"49,000",-4,"$69,620 ",2.50%,"$5,899.00 ",15.10%,"$740,463 ","$27,997 ",Financials,"Insurance: Life, Health (stock)",New York,NY,40.7127753,-74.0059728
-48,49,Walt Disney,"223,000",4,"$69,570 ",17.10%,"$11,054.00 ",-12.30%,"$193,984 ","$174,405 ",,,,,,
+48,49,Walt Disney,"223,000",4,"$69,570 ",17.10%,"$11,054.00 ",-12.30%,"$193,984 ","$174,405 ",Media,Entertainment,Burbank,CA,34.18083920000001,-118.30896609999998
 49,50,Procter & Gamble,"97,000",-5,"$67,684 ",1.30%,"$3,897.00 ",-60.00%,"$115,095 ","$271,640 ",Household Products,Household and Personal Products,Cincinnati,OH,39.103118200000004,-84.5120196
 50,51,PepsiCo,"267,000",-3,"$67,161 ",3.90%,"$7,314.00 ",-41.60%,"$78,547 ","$166,848 ","Food, Beverages &  Tobacco",Food Consumer Products,Harrison,NY,41.0400135,-73.71444770000001
 51,52,Humana,"46,000",4,"$64,888 ",14.00%,"$2,707.00 ",60.80%,"$29,074 ","$41,490 ",Health Care,Health Care: Insurance and Managed Care,Louisville,KY,38.252664700000004,-85.7584557
 52,53,Prudential Financial,"51,511",-3,"$64,807 ",2.90%,"$4,186.00 ",2.70%,"$896,552 ","$20,650 ",Financials,"Insurance: Life, Health (stock)",Newark,NJ,40.735657,-74.1723667
 53,54,Archer Daniels Midland,"38,100",-5,"$64,656 ",0.50%,"$1,379.00 ",-23.80%,"$43,997 ","$19,603 ","Food, Beverages &  Tobacco",Food Production,Chicago,IL,41.8781136,-87.62979820000001
-54,55,Albertsons,"267,000",-3,"$60,535 ",1.00%,$131.10 ,183.20%,"$20,777 ",-,,,,,,
+54,55,Albertsons,"267,000",-3,"$60,535 ",1.00%,$131.10 ,183.20%,"$20,777 ",-,Food &  Drug Stores,Food and Drug Stores,Boise,ID,43.6150186,-116.2023137
 55,56,Sysco,"69,000",-2,"$60,114 ",2.40%,"$1,674.30 ",17.00%,"$17,967 ","$23,203 ",Wholesalers,Wholesalers: Food and Grocery,Houston,TX,29.7604267,-95.36980279999999
 56,57,Lockheed Martin,"110,000",3,"$59,812 ",11.30%,"$6,230.00 ",23.50%,"$47,528 ","$95,539 ",Aerospace &  Defense,Aerospace and Defense,Bethesda,MD,38.984652000000004,-77.09470920000001
 57,58,HP,"56,000",-3,"$58,756 ",0.50%,"$3,152.00 ",-40.80%,"$33,467 ","$24,821 ",Technology,"Computers, Office Equipment",Palo Alto,CA,37.441883399999995,-122.14301950000001
-58,59,Energy Transfer,"12,812",-,"$54,213 ",-0.40%,"$3,592.00 ",112.00%,"$98,880 ","$12,374 ",,,,,,
+58,59,Energy Transfer,"12,812",-,"$54,213 ",-0.40%,"$3,592.00 ",112.00%,"$98,880 ","$12,374 ",Energy,Pipelines,Dallas,TX,32.7766642,-96.7969879
 59,60,Goldman Sachs Group,"38,300",2,"$53,922 ",2.70%,"$8,466.00 ",-19.10%,"$992,968 ","$55,417 ",Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
 60,61,Morgan Stanley,"60,431",2,"$53,823 ",7.20%,"$9,042.00 ",3.40%,"$895,429 ","$52,102 ",Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
 61,62,Caterpillar,"102,300",-4,"$53,800 ",-1.70%,"$6,093.00 ",-0.90%,"$78,453 ","$63,832 ",Industrials,Construction and Farm Machinery,Deerfield,IL,42.171136499999996,-87.8445119
@@ -74,7 +74,7 @@
 72,73,New York Life Insurance,"11,519",-2,"$44,117 ",1.60%,"$1,003.80 ",14.10%,"$330,806 ",-,Financials,"Insurance: Life, Health (Mutual)",New York,NY,40.7127753,-74.0059728
 73,74,Nationwide,"28,114",-1,"$43,982 ",1.60%,$829.70 ,61.90%,"$239,540 ",-,Financials,Insurance: Property and Casualty (Mutual),Columbus,OH,39.9611755,-82.9987942
 74,75,Best Buy,"125,000",-1,"$43,638 ",1.80%,"$1,541.00 ",5.30%,"$15,591 ","$14,647 ",Retailing,Specialty Retailers: Other,Richfield,MN,44.8832982,-93.28300209999999
-75,76,United Airlines Holdings,"96,000",2,"$43,259 ",4.70%,"$3,009.00 ",41.30%,"$52,611 ","$7,823 ",,,,,,
+75,76,United Airlines Holdings,"96,000",2,"$43,259 ",4.70%,"$3,009.00 ",41.30%,"$52,611 ","$7,823 ",Transportation,Airlines,Chicago,IL,41.8781136,-87.62979820000001
 76,77,Liberty Mutual Insurance Group,"45,000",-2,"$43,228 ",1.30%,"$1,044.00 ",-51.70%,"$133,644 ",-,Financials,Insurance: Property and Casualty (Stock),Boston,MA,42.360082500000004,-71.0588801
 77,78,Dow,"36,500",-,"$42,951 ",-,"($1,359.00)",-,"$60,524 ","$21,716 ",,,,,,
 78,79,Tyson Foods,"141,000",1,"$42,405 ",5.90%,"$2,022.00 ",-33.10%,"$33,097 ","$21,125 ","Food, Beverages &  Tobacco",Food Production,Springdale,AR,36.18674420000001,-94.1288141
@@ -104,12 +104,12 @@
 102,103,3M,"96,163",-8,"$32,136 ",-1.90%,"$4,570.00 ",-14.60%,"$44,659 ","$78,529 ",Industrials,Miscellaneous,St Paul,MN,44.953702899999996,-93.0899578
 103,104,Abbott Laboratories,"107,000",-1,"$31,904 ",4.30%,"$3,687.00 ",55.70%,"$67,887 ","$139,153 ",Health Care,Medical Products and Equipment,Lake Bluff,IL,42.304505,-87.89607120000001
 104,105,CHS,"10,703",-8,"$31,901 ",-2.40%,$829.90 ,7.00%,"$16,448 ",-,"Food, Beverages &  Tobacco",Food Production,Inver Grove Heights,MN,44.8480218,-93.0427153
-105,106,Travelers,"30,800",-,"$31,581 ",4.30%,"$2,622.00 ",3.90%,"$110,122 ","$25,337 ",,,,,,
+105,106,Travelers,"30,800",-,"$31,581 ",4.30%,"$2,622.00 ",3.90%,"$110,122 ","$25,337 ",Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
 106,107,Philip Morris International,"73,500",3,"$29,805 ",0.60%,"$7,185.00 ",-9.20%,"$42,875 ","$113,606 ","Food, Beverages &  Tobacco",Tobacco,New York,NY,40.7127753,-74.0059728
-107,108,Raytheon,"70,000",6,"$29,176 ",7.80%,"$3,343.00 ",14.90%,"$34,566 ","$36,518 ",Aerospace &  Defense,Aerospace and Defense,Waltham,MA,42.376485200000005,-71.2356113
+107,108,Raytheon,"70,000",6,"$29,176 ",7.80%,"$3,343.00 ",14.90%,"$34,566 ","$36,518 ",,,,,,
 108,109,Hewlett Packard Enterprise,"61,600",-7,"$29,135 ",-5.60%,"$1,049.00 ",-45.00%,"$51,803 ","$12,510 ",Technology,"Computers, Office Equipment",Palo Alto,CA,37.441883399999995,-122.14301950000001
 109,110,Arrow Electronics,"19,300",-1,"$28,917 ",-2.60%,($204.10),-128.50%,"$16,401 ","$4,183 ",Wholesalers,Wholesalers: Electronics and Office Equipment,Centennial,CO,39.5807452,-104.87717260000001
-110,111,ViacomCBS,"26,280",106,"$27,812 ",91.60%,"$3,308.00 ",68.80%,"$49,519 ","$8,798 ",,,,,,
+110,111,ViacomCBS,"26,280",106,"$27,812 ",91.60%,"$3,308.00 ",68.80%,"$49,519 ","$8,798 ",Media,Entertainment,New York,NY,40.7127753,-74.0059728
 111,112,Dollar General,"143,000",7,"$27,754 ",8.30%,"$1,712.60 ",7.70%,"$22,825 ","$38,046 ",Retailing,Specialty Retailers: Other,Goodlettsville,TN,36.3231066,-86.7133302
 112,113,U.S. Bancorp,"69,651",4,"$27,325 ",6.00%,"$6,914.00 ",-2.60%,"$495,426 ","$52,408 ",Financials,Commercial Banks,Minneapolis,MN,44.977753,-93.2650108
 113,114,Starbucks,"346,000",7,"$26,509 ",7.20%,"$3,599.20 ",-20.30%,"$19,220 ","$77,179 ","Hotels, Restaurants &  Leisure",Food Services,Seattle,WA,47.6062095,-122.33207079999998
@@ -150,7 +150,7 @@
 148,149,Union Pacific,"37,483",-15,"$21,708 ",-4.90%,"$5,919.00 ",-0.80%,"$61,673 ","$97,355 ",Transportation,Railroads,Omaha,NE,41.2565369,-95.93450340000001
 149,150,Rite Aid,"42,645",-43,"$21,674 ",-28.30%,($422.20),-144.80%,"$7,591 ",$822 ,Food &  Drug Stores,Food and Drug Stores,Camp Hill,PA,40.2398118,-76.91997420000001
 150,151,PNC Financial Services Group,"50,968",8,"$21,624 ",8.20%,"$5,369.00 ",1.30%,"$410,295 ","$41,038 ",,,,,,
-151,152,DuPont,"35,000",-117,"$21,512 ",-75.00%,$498.00 ,-87.00%,"$69,396 ","$25,213 ",,,,,,
+151,152,DuPont,"35,000",-117,"$21,512 ",-75.00%,$498.00 ,-87.00%,"$69,396 ","$25,213 ",Chemicals,Chemicals,Midland,Michigan,43.623574,-84.232105
 152,153,Southern,"27,943",-22,"$21,419 ",-8.80%,"$4,739.00 ",112.90%,"$118,700 ","$57,076 ",Energy,Utilities: Gas and Electric,Atlanta,GA,33.7489954,-84.3879824
 153,154,AutoNation,"25,000",-9,"$21,336 ",-0.40%,$450.00 ,13.60%,"$10,543 ","$2,511 ",Retailing,"Automotive Retailing, Services",Fort Lauderdale,FL,26.122438600000002,-80.13731740000001
 154,155,DXC Technology,"130,000",-33,"$21,184 ",-13.70%,"$1,257.00 ",-28.20%,"$29,574 ","$3,311 ",Technology,Information Technology Services,Tysons,VA,38.9187222,-77.2310925
@@ -242,13 +242,13 @@
 240,241,Community Health Systems,"71,500",-18,"$13,210 ",-6.70%,($675.00),-,"$15,609 ",$394 ,Health Care,Health Care: Medical Facilities,Franklin,TN,35.9250637,-86.86888990000001
 241,242,Kinder Morgan,"11,086",-18,"$13,209 ",-6.60%,"$2,190.00 ",36.10%,"$74,157 ","$31,530 ",Energy,Pipelines,Houston,TX,29.7604267,-95.36980279999999
 242,243,BJ's Wholesale Club,"27,231",2,"$13,191 ",1.40%,$187.20 ,47.10%,"$5,270 ","$3,496 ",,,,,,
-243,244,State Street,"39,103",3,"$13,131 ",1.20%,"$2,242.00 ",-13.70%,"$245,610 ","$18,876 ",,,,,,
+243,244,State Street,"39,103",3,"$13,131 ",1.20%,"$2,242.00 ",-13.70%,"$245,610 ","$18,876 ",Financials,Commercial Banks,Boston,MA,42.360082500000004,-71.0588801
 244,245,Ameriprise Financial,"12,500",4,"$13,103 ",1.40%,"$1,893.00 ",-9.80%,"$151,828 ","$12,602 ",Financials,Diversified Financials,Minneapolis,MN,44.977753,-93.2650108
 245,246,Global Partners,"3,860",8,"$13,082 ",3.20%,$35.90 ,-65.50%,"$2,808 ",$300 ,Wholesalers,Wholesalers: Diversified,Waltham,MA,42.376485200000005,-71.2356113
 246,247,United States Steel,"27,500",-25,"$12,937 ",-8.80%,($630.00),-156.50%,"$11,608 ","$1,074 ",Materials,Metals,Pittsburgh,PA,40.440624799999995,-79.9958864
 247,248,L Brands,"59,950",-7,"$12,914 ",-2.40%,($366.40),-156.90%,"$10,125 ","$3,197 ",Retailing,Specialty Retailers: Apparel,Columbus,OH,39.9611755,-82.9987942
 248,249,MGM Resorts International,"72,000",17,"$12,900 ",9.70%,"$2,049.10 ",339.00%,"$33,876 ","$5,814 ","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.169941200000004,-115.13982959999998
-249,250,L3Harris Technologies,"50,000",224,"$12,856 ",108.00%,"$1,333.00 ",85.70%,"$38,336 ","$39,067 ",,,,,,
+249,250,L3Harris Technologies,"50,000",224,"$12,856 ",108.00%,"$1,333.00 ",85.70%,"$38,336 ","$39,067 ",Aerospace &  Defense,Aerospace and Defense,New York,NY,40.7127753,-74.0059728
 250,251,DISH Network,"16,000",-19,"$12,808 ",-6.00%,"$1,399.50 ",-11.10%,"$33,231 ","$10,456 ",Telecommunications,Telecommunications,Englewood,CO,39.647765299999996,-104.98775970000001
 251,252,Lithia Motors,"14,320",13,"$12,673 ",7.20%,$271.50 ,2.20%,"$6,084 ","$1,910 ",Retailing,"Automotive Retailing, Services",Medford,OR,42.3265152,-122.8755949
 252,253,DTE Energy,"10,700",-33,"$12,669 ",-10.90%,"$1,169.00 ",4.40%,"$41,882 ","$18,290 ",Energy,Utilities: Gas and Electric,Detroit,MI,42.331427000000005,-83.0457538
@@ -283,10 +283,10 @@
 281,282,Baxter International,"50,000",4,"$11,362 ",2.40%,"$1,001.00 ",-35.30%,"$18,193 ","$41,180 ",Health Care,Medical Products and Equipment,Deerfield,IL,42.171136499999996,-87.8445119
 282,283,Norfolk Southern,"24,587",-6,"$11,296 ",-1.40%,"$2,722.00 ",2.10%,"$37,923 ","$37,537 ",Transportation,Railroads,Norfolk,VA,36.8507689,-76.28587259999999
 283,284,Navistar International,"12,300",24,"$11,251 ",9.80%,$221.00 ,-35.00%,"$6,917 ","$1,641 ",Industrials,Construction and Farm Machinery,Lisle,IL,41.801140999999994,-88.0747875
-284,285,Adobe,"22,634",54,"$11,171 ",23.70%,"$2,951.50 ",13.90%,"$20,762 ","$153,328 ",,,,,,
+284,285,Adobe,"22,634",54,"$11,171 ",23.70%,"$2,951.50 ",13.90%,"$20,762 ","$153,328 ",Technology,Computer Software,San Jose,CA,37.338208200000004,-121.88632859999998
 285,286,J.C. Penney,"90,000",-25,"$11,167 ",-7.10%,($268.00),-,"$7,989 ",$116 ,Retailing,General Merchandisers,Plano,TX,33.0198431,-96.6988856
 286,287,Discovery,"9,200",13,"$11,144 ",5.60%,"$2,069.00 ",248.30%,"$33,735 ","$9,503 ",Media,Entertainment,Silver Spring,MD,38.9906657,-77.026088
-287,288,Keurig Dr Pepper,"25,500",121,"$11,120 ",49.40%,"$1,254.00 ",114.00%,"$49,518 ","$34,148 ",,,,,,
+287,288,Keurig Dr Pepper,"25,500",121,"$11,120 ",49.40%,"$1,254.00 ",114.00%,"$49,518 ","$34,148 ","Food, Beverages &  Tobacco",Beverages,Plano,TX,33.0198431,-96.6988856
 288,289,Leidos Holdings,"34,000",22,"$11,094 ",8.80%,$667.00 ,14.80%,"$9,367 ","$13,000 ",Technology,Information Technology Services,Reston,VA,38.9586307,-77.35700279999999
 289,290,IQVIA Holdings,"67,000",15,"$11,088 ",6.50%,$191.00 ,-26.30%,"$23,251 ","$20,797 ",Health Care,Health Care: Pharmacy and Other Services,Durham,NC,35.980513,-78.90511
 290,291,Reliance Steel & Aluminum,"15,300",-16,"$10,974 ",-4.90%,$701.50 ,10.70%,"$8,131 ","$5,856 ",Materials,Metals,Los Angeles,CA,34.0522342,-118.24368490000002
@@ -296,7 +296,7 @@
 294,295,eBay,"13,300",-,"$10,800 ",0.50%,"$1,786.00 ",-29.40%,"$18,174 ","$23,930 ",Technology,Internet Services and Retailing,San Jose,CA,37.338208200000004,-121.88632859999998
 295,296,Boston Scientific,"36,000",23,"$10,735 ",9.30%,"$4,700.00 ",181.30%,"$30,565 ","$45,656 ",Health Care,Medical Products and Equipment,Marlboro,MA,42.3459271,-71.55228740000001
 296,297,Office Depot,"40,000",-12,"$10,647 ",-4.30%,$99.00 ,-4.80%,"$7,311 ",$868 ,Retailing,Specialty Retailers: Other,Boca Raton,FL,26.3683064,-80.1289321
-297,298,Molson Coors Beverage,"17,700",-4,"$10,579 ",-1.80%,$241.70 ,-78.40%,"$28,860 ","$8,441 ",,,,,,
+297,298,Molson Coors Beverage,"17,700",-4,"$10,579 ",-1.80%,$241.70 ,-78.40%,"$28,860 ","$8,441 ","Food, Beverages &  Tobacco",Beverages,Denver,CO,39.739235799999996,-104.990251
 298,299,Steel Dynamics,"8,385",-35,"$10,465 ",-11.50%,$671.10 ,-46.70%,"$8,276 ","$4,794 ",Materials,Metals,Fort Wayne,IN,41.079273,-85.13935129999999
 299,300,Mutual of Omaha Insurance,"6,072",36,"$10,456 ",11.90%,$271.50 ,-2.10%,"$50,174 ",-,Financials,"Insurance: Life, Health (stock)",Omaha,NE,41.2565369,-95.93450340000001
 300,301,Sonic Automotive,"9,300",15,"$10,454 ",5.10%,$144.10 ,179.10%,"$4,071 ",$567 ,Retailing,"Automotive Retailing, Services",Charlotte,NC,35.2270869,-80.8431267
@@ -305,14 +305,14 @@
 303,304,Henry Schein,"19,000",-62,"$10,305 ",-21.90%,$694.70 ,29.60%,"$7,151 ","$7,244 ",Wholesalers,Wholesalers: Health Care,Melville,NY,40.793432200000005,-73.4151214
 304,305,Republic Services,"36,000",9,"$10,299 ",2.60%,"$1,073.30 ",3.50%,"$22,684 ","$23,956 ",Business Services,Waste Management,Phoenix,AZ,33.4483771,-112.07403729999999
 305,306,Liberty Media,"6,753",74,"$10,292 ",28.00%,$106.00 ,-80.00%,"$44,189 ","$9,972 ",Media,Entertainment,Englewood,CO,39.647765299999996,-104.98775970000001
-306,307,Peter Kiewit Sons',"23,000",33,"$10,283 ",13.90%,$419.00 ,-10.50%,"$5,717 ",-,,,,,,
+306,307,Peter Kiewit Sons',"23,000",33,"$10,283 ",13.90%,$419.00 ,-10.50%,"$5,717 ",-,Engineering &  Construction,"Engineering, Construction",Omaha,NE,41.2565369,-95.93450340000001
 307,308,Interpublic Group,"54,300",14,"$10,221 ",5.20%,$656.00 ,6.00%,"$17,752 ","$6,279 ",Business Services,"Advertising, marketing",New York,NY,40.7127753,-74.0059728
 308,309,PulteGroup,"5,245",3,"$10,213 ",0.20%,"$1,016.70 ",-0.50%,"$10,716 ","$6,015 ",Engineering &  Construction,Homebuilders,Atlanta,GA,33.7489954,-84.3879824
 309,310,AES,"8,000",-14,"$10,189 ",-5.10%,$303.00 ,-74.80%,"$33,648 ","$9,041 ",Energy,Utilities: Gas and Electric,Arlington,VA,38.8816208,-77.0909809
 310,311,Fiserv,"44,000",177,"$10,187 ",74.90%,$893.00 ,-24.80%,"$77,539 ","$64,508 ",Business Services,Financial Data Services,Brookfield,WI,43.0605671,-88.1064787
 311,312,BorgWarner,"29,000",-11,"$10,168 ",-3.40%,$746.00 ,-19.80%,"$9,702 ","$5,037 ",Motor Vehicles &  Parts,Motor Vehicles and Parts,Auburn Hills,MI,42.6875323,-83.23410279999999
 312,313,Oneok,"2,882",-57,"$10,164 ",-19.30%,"$1,278.60 ",11.00%,"$21,812 ","$9,015 ",Energy,Pipelines,Tulsa,OK,36.1539816,-95.992775
-313,314,O'Reilly Automotive,"67,663",15,"$10,150 ",6.40%,"$1,391.00 ",5.00%,"$10,717 ","$22,353 ",,,,,,
+313,314,O'Reilly Automotive,"67,663",15,"$10,150 ",6.40%,"$1,391.00 ",5.00%,"$10,717 ","$22,353 ",Retailing,Specialty Retailers: Other,Springfield,MO,37.20895720000001,-93.2922989
 314,315,Assurant,"13,900",63,"$10,087 ",25.20%,$382.60 ,52.40%,"$44,291 ","$6,218 ",Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
 315,316,Newell Brands,"30,000",-73,"$10,083 ",-22.60%,$106.60 ,-,"$15,642 ","$5,949 ",Household Products,"Home Equipment, Furnishings",Hoboken,NJ,40.7439905,-74.0323626
 316,317,Public Service Enterprise Group,"12,992",6,"$10,076 ",3.90%,"$1,693.00 ",17.70%,"$47,730 ","$22,685 ",Energy,Utilities: Gas and Electric,Newark,NJ,40.735657,-74.1723667
@@ -326,7 +326,7 @@
 324,325,Fifth Third Bancorp,"19,869",59,"$9,790 ",22.80%,"$2,512.00 ",14.50%,"$169,369 ","$10,560 ",Financials,Commercial Banks,Cincinnati,OH,39.103118200000004,-84.5120196
 325,326,Hertz Global Holdings,"38,000",5,"$9,779 ",2.90%,($58.00),-,"$24,627 ",$878 ,Retailing,"Automotive Retailing, Services",Estero,FL,26.438136,-81.8067523
 326,327,Altice USA,"10,700",-,"$9,761 ",2.00%,$138.90 ,637.70%,"$34,108 ","$14,110 ",,,,,,
-327,328,Newmont,"16,600",91,"$9,740 ",34.30%,"$2,805.00 ",722.60%,"$39,974 ","$36,577 ",,,,,,
+327,328,Newmont,"16,600",91,"$9,740 ",34.30%,"$2,805.00 ",722.60%,"$39,974 ","$36,577 ",Energy,"Mining, Crude-Oil Production",Greenwood Village,CO,39.6172101,-104.95081409999999
 328,329,Cheniere Energy,"1,530",54,"$9,730 ",21.80%,$648.00 ,37.60%,"$35,492 ","$8,512 ",Energy,Energy,Houston,TX,29.7604267,-95.36980279999999
 329,330,Advance Auto Parts,"53,000",-4,"$9,709 ",1.30%,$486.90 ,14.90%,"$11,249 ","$6,461 ",Retailing,Specialty Retailers: Other,Roanoke,VA,37.270970399999996,-79.9414266
 330,331,Lam Research,"10,700",-44,"$9,654 ",-12.90%,"$2,191.40 ",-7.90%,"$12,001 ","$34,932 ",Technology,Semiconductors and Other Electronic Components,Fremont,CA,37.548269700000006,-121.98857190000001
@@ -337,7 +337,7 @@
 335,336,Jones Financial (Edward Jones),"49,000",20,"$9,526 ",10.80%,"$1,092.00 ",10.30%,"$19,317 ",-,Financials,Securities,Des Peres,MO,38.59722,-90.448126
 336,337,Hormel Foods,"18,800",-9,"$9,497 ",-0.50%,$978.80 ,-3.30%,"$8,109 ","$25,082 ","Food, Beverages &  Tobacco",Food Consumer Products,Austin,MN,43.6666296,-92.9746367
 337,338,Hilton Worldwide Holdings,"173,000",7,"$9,452 ",6.10%,$881.00 ,15.30%,"$14,957 ","$18,933 ","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",McLean,VA,38.933867600000006,-77.17726040000001
-338,339,Univar Solutions,"10,300",14,"$9,444 ",9.40%,($100.20),-158.20%,"$6,495 ","$1,810 ",,,,,,
+338,339,Univar Solutions,"10,300",14,"$9,444 ",9.40%,($100.20),-158.20%,"$6,495 ","$1,810 ",Wholesalers,Wholesalers: Diversified,Downers Grove,IL,41.8089191,-88.01117459999999
 339,340,United Rentals,"19,100",39,"$9,351 ",16.20%,"$1,174.00 ",7.10%,"$18,970 ","$7,623 ",Business Services,Miscellaneous,Stamford,CT,41.0534302,-73.53873409999999
 340,341,Pioneer Natural Resources,"2,323",-8,"$9,304 ",-1.20%,$756.00 ,-22.70%,"$19,067 ","$11,625 ",Energy,"Mining, Crude-Oil Production",Irving,TX,32.814017699999994,-96.9488945
 341,342,Delek US Holdings,"3,707",-35,"$9,298 ",-9.40%,$310.60 ,-8.70%,"$7,016 ","$1,190 ",Energy,Petroleum Refining,Brentwood,TN,36.0331164,-86.7827772
@@ -345,7 +345,7 @@
 343,344,EMCOR Group,"36,000",31,"$9,175 ",12.80%,$325.10 ,14.70%,"$4,830 ","$3,450 ",Engineering &  Construction,"Engineering, Construction",Norwalk,CT,41.117744,-73.4081575
 344,345,Avis Budget Group,"25,600",-7,"$9,172 ",0.50%,$302.00 ,83.00%,"$23,126 ",$967 ,Retailing,"Automotive Retailing, Services",Parsippany-Troy Hills,NJ,40.865286499999996,-74.41738769999999
 345,346,J.B. Hunt Transport Services,"29,056",8,"$9,165 ",6.40%,$516.30 ,5.50%,"$5,471 ","$9,800 ",Transportation,"Trucking, Truck Leasing",Lowell,AR,36.25535429999999,-94.1307587
-346,347,Xerox Holdings,"27,000",-29,"$9,145 ",-7.00%,"$1,353.00 ",274.80%,"$15,047 ","$4,030 ",,,,,,
+346,347,Xerox Holdings,"27,000",-29,"$9,145 ",-7.00%,"$1,353.00 ",274.80%,"$15,047 ","$4,030 ",Technology,"Computers, Office Equipment",Norwalk,CT,41.117744,-73.4081575
 347,348,Wayfair,"16,985",98,"$9,127 ",34.60%,($984.60),-,"$2,953 ","$5,043 ",Technology,Internet Services and Retailing,Boston,MA,42.360082500000004,-71.0588801
 348,349,KKR,"1,384",-,"$9,120 ",74.60%,"$2,005.00 ",77.30%,"$60,899 ","$19,913 ",Financials,Securities,New York,NY,40.7127753,-74.0059728
 349,350,AGCO,"20,961",-15,"$9,041 ",-3.30%,$125.20 ,-56.10%,"$7,760 ","$3,546 ",Industrials,Construction and Farm Machinery,Duluth,GA,34.0028786,-84.1446376
@@ -360,7 +360,7 @@
 358,359,Anixter International,"9,400",5,"$8,846 ",5.30%,$262.90 ,68.20%,"$4,809 ","$2,973 ",Wholesalers,Wholesalers: Electronics and Office Equipment,Glenview,IL,42.069750899999995,-87.7878408
 359,360,Alaska Air Group,"24,134",8,"$8,781 ",6.30%,$769.00 ,76.00%,"$12,993 ","$3,490 ",Transportation,Airlines,Seattle,WA,47.6062095,-122.33207079999998
 360,361,Yum China Holdings,"450,000",1,"$8,776 ",4.30%,$713.00 ,0.70%,"$6,950 ","$16,033 ","Hotels, Restaurants &  Leisure",Food Services,Plano,TX,33.0198431,-96.6988856
-361,362,Dick's Sporting Goods,"28,450",-3,"$8,751 ",3.70%,$297.50 ,-7.00%,"$6,629 ","$1,848 ",,,,,,
+361,362,Dick's Sporting Goods,"28,450",-3,"$8,751 ",3.70%,$297.50 ,-7.00%,"$6,629 ","$1,848 ",Retailing,Specialty Retailers: Other,Coraopolis,PA,40.5184013,-80.1667247
 362,363,Caesars Entertainment,"64,000",2,"$8,742 ",4.20%,"($1,195.00)",-494.40%,"$25,345 ","$4,612 ","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.169941200000004,-115.13982959999998
 363,364,Genworth Financial,"3,100",-4,"$8,681 ",3.00%,$343.00 ,188.20%,"$101,342 ","$1,676 ",Financials,"Insurance: Life, Health (stock)",Richmond,VA,37.540724600000004,-77.4360481
 364,365,Targa Resources,"2,680",-63,"$8,671 ",-17.30%,($209.20),-13175.00%,"$18,815 ","$1,611 ",Energy,Pipelines,Houston,TX,29.7604267,-95.36980279999999
@@ -376,7 +376,7 @@
 374,375,Fidelity National Financial,"23,484",27,"$8,469 ",11.50%,"$1,062.00 ",69.10%,"$10,677 ","$6,854 ",Financials,Insurance: Property and Casualty (Stock),Jacksonville,FL,30.3321838,-81.655651
 375,376,Erie Insurance Group,"5,778",5,"$8,443 ",5.10%,$551.00 ,-19.70%,"$23,347 ",-,Financials,Insurance: Property and Casualty (Mutual),Erie,PA,42.1292241,-80.085059
 376,377,Oshkosh,"15,400",18,"$8,382 ",8.80%,$579.40 ,22.80%,"$5,566 ","$4,394 ",Industrials,Construction and Farm Machinery,Oshkosh,WI,44.024706200000004,-88.5426136
-377,378,Casey's General Stores,"26,866",30,"$8,365 ",11.90%,$203.90 ,-35.90%,"$3,731 ","$4,875 ",,,,,,
+377,378,Casey's General Stores,"26,866",30,"$8,365 ",11.90%,$203.90 ,-35.90%,"$3,731 ","$4,875 ",Retailing,Specialty Retailers: Other,Ankeny,IA,41.7317884,-93.6001278
 378,379,WESCO International,"9,500",-9,"$8,359 ",2.20%,$223.40 ,-1.70%,"$5,018 ",$957 ,Wholesalers,Wholesalers: Diversified,Pittsburgh,PA,40.440624799999995,-79.9958864
 379,380,Tractor Supply,"24,000",8,"$8,352 ",5.60%,$562.40 ,5.60%,"$5,289 ","$9,810 ",Retailing,Specialty Retailers: Other,Brentwood,TN,36.0331164,-86.7827772
 380,381,CommScope Holding,"30,000",-,"$8,345 ",82.70%,($929.50),-762.90%,"$14,432 ","$1,779 ",Technology,Network and Other Communications Equipment,Newton,NC,35.7344538,-81.3444573
@@ -399,7 +399,7 @@
 397,398,Hershey,"15,330",-7,"$7,986 ",2.50%,"$1,149.70 ",-2.40%,"$8,140 ","$27,792 ","Food, Beverages &  Tobacco",Food Consumer Products,Hershey,PA,40.2859239,-76.6502468
 398,399,Zimmer Biomet Holdings,"19,900",-12,"$7,982 ",0.60%,"$1,131.60 ",-,"$24,639 ","$20,891 ",Health Care,Medical Products and Equipment,Warsaw,IN,41.2381,-85.85304690000001
 399,400,Cincinnati Financial,"5,200",-,"$7,924 ",46.50%,"$1,997.40 ",595.60%,"$25,408 ","$12,242 ",Financials,Insurance: Property and Casualty (Stock),Fairfield,OH,39.345467299999996,-84.56031870000001
-400,401,Western & Southern Financial Group,"2,787",20,"$7,921 ",9.90%,$244.90 ,-50.50%,"$54,703 ",-,,,,,,
+400,401,Western & Southern Financial Group,"2,787",20,"$7,921 ",9.90%,$244.90 ,-50.50%,"$54,703 ",-,Financials,"Insurance: Life, Health (Mutual)",Cincinnati,OH,39.103118200000004,-84.5120196
 401,402,W.R. Berkley,"7,493",-5,"$7,902 ",2.70%,$681.90 ,6.40%,"$26,643 ","$9,569 ",Financials,Insurance: Property and Casualty (Stock),Greenwich,CT,41.0262417,-73.62819640000001
 402,403,Motorola Solutions,"17,000",13,"$7,887 ",7.40%,$868.00 ,-10.10%,"$10,642 ","$22,803 ",Technology,Network and Other Communications Equipment,Chicago,IL,41.8781136,-87.62979820000001
 403,404,Thor Industries,"21,750",-37,"$7,865 ",-5.60%,$133.30 ,-69.00%,"$5,660 ","$2,328 ",Motor Vehicles &  Parts,Motor Vehicles and Parts,Elkhart,IN,41.6819935,-85.9766671
@@ -436,11 +436,11 @@
 434,435,Avery Dennison,"30,000",-10,"$7,070 ",-1.20%,$303.60 ,-35.00%,"$5,489 ","$8,485 ",Materials,"Packaging, Containers",Glendale,CA,34.1425078,-118.255075
 435,436,Hanesbrands,"63,000",8,"$6,967 ",2.40%,$600.70 ,11.30%,"$7,354 ","$2,817 ",Apparel,Apparel,Winston-Salem,NC,36.0998596,-80.24421600000001
 436,437,Packaging Corp. of America,"15,500",-5,"$6,964 ",-0.70%,$696.40 ,-5.60%,"$7,236 ","$8,236 ",Materials,"Packaging, Containers",Lake Forest,IL,42.2586342,-87.840625
-437,438,M&T Bank,"17,386",24,"$6,941 ",7.50%,"$1,929.10 ",0.60%,"$119,873 ","$13,441 ",,,,,,
+437,438,M&T Bank,"17,386",24,"$6,941 ",7.50%,"$1,929.10 ",0.60%,"$119,873 ","$13,441 ",Financials,Commercial Banks,Buffalo,NY,42.8864468,-78.8783689
 438,439,NCR,"36,000",26,"$6,915 ",8.00%,$564.00 ,-,"$8,987 ","$2,287 ",Technology,"Computers, Office Equipment",Atlanta,GA,33.7489954,-84.3879824
 439,440,Northern Trust,"19,800",13,"$6,895 ",3.50%,"$1,492.20 ",-4.10%,"$136,828 ","$15,791 ",Financials,Commercial Banks,Chicago,IL,41.8781136,-87.62979820000001
 440,441,Cintas,"45,000",18,"$6,892 ",6.20%,$885.00 ,5.00%,"$7,437 ","$18,024 ",Business Services,Diversified Outsourcing Services,Cincinnati,OH,39.103118200000004,-84.5120196
-441,442,Polaris,"14,000",34,"$6,863 ",11.30%,$324.00 ,-3.40%,"$4,431 ","$2,959 ",,,,,,
+441,442,Polaris,"14,000",34,"$6,863 ",11.30%,$324.00 ,-3.40%,"$4,431 ","$2,959 ",Transportation,Transportation Equipment,Medina,MN,45.0352411,-93.5824586
 442,443,CMS Energy,"8,459",-3,"$6,845 ",-0.40%,$680.00 ,3.50%,"$26,837 ","$16,697 ",Energy,Utilities: Gas and Electric,Jackson,MI,42.245869,-84.4013462
 443,444,Seaboard,"13,100",11,"$6,840 ",3.90%,$283.00 ,-,"$6,285 ","$3,274 ","Food, Beverages &  Tobacco",Food Production,Merriam,KS,39.023616499999996,-94.69357009999999
 444,445,Intuit,"9,400",37,"$6,784 ",13.70%,"$1,557.00 ",28.60%,"$6,283 ","$59,913 ",Technology,Computer Software,Mountain View,CA,37.3860517,-122.08385109999999
@@ -448,8 +448,8 @@
 446,447,FM Global,"5,591",-,"$6,743 ",24.20%,"$2,479.30 ",1436.10%,"$25,054 ",-,Financials,Insurance: Property and Casualty (Stock),Johnston,RI,41.820519899999994,-71.512617
 447,448,Advanced Micro Devices,"11,400",12,"$6,731 ",4.00%,$341.00 ,1.20%,"$6,028 ","$53,250 ",Technology,Semiconductors and Other Electronic Components,Santa Clara,CA,37.354107899999995,-121.9552356
 448,449,Ovintiv,"2,571",-,"$6,726 ",13.30%,$234.00 ,-78.10%,"$21,487 ",$702 ,,,,,,
-449,450,Booz Allen Hamilton Holding,"26,100",25,"$6,704 ",8.60%,$418.50 ,37.20%,"$3,832 ","$9,624 ",,,,,,
-450,451,S&P Global,"22,500",19,"$6,699 ",7.00%,"$2,123.00 ",8.40%,"$11,348 ","$59,042 ",,,,,,
+449,450,Booz Allen Hamilton Holding,"26,100",25,"$6,704 ",8.60%,$418.50 ,37.20%,"$3,832 ","$9,624 ",Technology,Information Technology Services,McLean,VA,38.933867600000006,-77.17726040000001
+450,451,S&P Global,"22,500",19,"$6,699 ",7.00%,"$2,123.00 ",8.40%,"$11,348 ","$59,042 ",Business Services,Financial Data Services,New York,NY,40.7127753,-74.0059728
 451,452,Rockwell Automation,"23,000",-,"$6,695 ",0.40%,$695.80 ,29.90%,"$6,113 ","$17,533 ",Industrials,"Electronics, Electrical Equip.",Milwaukee,WI,43.0389025,-87.9064736
 452,453,O-I Glass,"27,500",-15,"$6,691 ",-2.70%,($400.00),-255.60%,"$9,610 ","$1,109 ",,,,,,
 453,454,Wynn Resorts,"30,200",-6,"$6,611 ",-1.60%,$123.00 ,-78.50%,"$13,871 ","$6,471 ","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.169941200000004,-115.13982959999998
@@ -466,7 +466,7 @@
 464,465,Apache,"3,163",-54,"$6,411 ",-13.60%,"($3,553.00)",-8982.50%,"$18,107 ","$1,577 ",Energy,"Mining, Crude-Oil Production",Houston,TX,29.7604267,-95.36980279999999
 465,466,Science Applications International,"24,311",-,"$6,379 ",36.90%,$226.00 ,65.00%,"$4,711 ","$4,317 ",Technology,Information Technology Services,Reston,VA,38.9586307,-77.35700279999999
 466,467,AK Steel Holding,"9,300",-24,"$6,359 ",-6.70%,$11.20 ,-94.00%,"$4,591 ",-,Materials,Metals,Beckett Ridge,OH,39.332126200000005,-84.41726659999999
-467,468,Dillard's,"30,400",-10,"$6,343 ",-2.50%,$111.10 ,-34.80%,"$3,430 ",$864 ,,,,,,
+467,468,Dillard's,"30,400",-10,"$6,343 ",-2.50%,$111.10 ,-34.80%,"$3,430 ",$864 ,Retailing,General Merchandisers,Little Rock,AR,34.7464809,-92.2895948
 468,469,Ralph Lauren,"18,650",4,"$6,313 ",2.10%,$430.90 ,164.70%,"$5,943 ","$4,928 ",Apparel,Apparel,New York,NY,40.7127753,-74.0059728
 469,470,Celanese,"7,714",-44,"$6,297 ",-12.00%,$852.00 ,-29.40%,"$9,476 ","$8,775 ",Chemicals,Chemicals,Irving,TX,32.814017699999994,-96.9488945
 470,471,R.R. Donnelley & Sons,"36,400",-26,"$6,276 ",-7.70%,($93.20),-,"$3,330 ",$68 ,Media,"Publishing, Printing",Chicago,IL,41.8781136,-87.62979820000001
