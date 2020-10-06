@@ -29,7 +29,7 @@ def get_stock_info():
 
     ###Rank1- Insert stock data into Mongo DB
     # Created or Switched to collection  
-    Collection = db["Walmart"] 
+    Collection = db["Walmart"]
     #Drop last collection
     Collection.drop()
     #Insert to Mongo

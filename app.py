@@ -6,7 +6,7 @@ from flask_cors import CORS, cross_origin
 import requests
 import json
 import pandas as pd
-import load_stock_data
+import load_stock_data_2
 import pymongo
 from pymongo import MongoClient
 import locale
@@ -30,7 +30,7 @@ mongo = PyMongo(app)
 def stock_data():
     try:
         print("Data reader reading data from Yahoo finance...")
-        load_stock_data.get_stock_info()
+        load_stock_data_2.get_stock_info()
         print("Stock data succefully loaded to Mongo.")
     except Exception as e:
         print("Data load to Mongo failed. Please check the logs.")
@@ -50,7 +50,7 @@ def map():
 # Stock Page Rendering 
 @app.route('/stock')
 def stock():
-   return render_template('stock.html')
+    return render_template('stock.html')
 
 
 # route to get geomap data
@@ -66,10 +66,58 @@ def mapData():
 @app.route("/api/stock" , methods=['GET'])
 def stockData():
  
-    results = mongo.db.Walmart.find({})
-    stockData = pd.DataFrame(results)
-    stockjson = json.loads(json_util.dumps(stockData))
-    return jsonify(stockjson)
+    myclient = pymongo.MongoClient("mongodb://localhost:27017/fortune500")
+    db = myclient.fortune500
+
+    colWMT = db["WMT"]
+
+    WMT = []
+    WMTx = 0
+    for i in colWMT.find():
+        WMTx += 1
+        WMTdict = {'tooltext': i['Date'], 'open': i['Open'], 'high': i['High'], 'low': i['Low'], 'close': i['Close'], 'volume': i['Volume'], 'x': WMTx}
+        WMT.append(WMTdict)
+
+    colAMZN = db["AMZN"]
+
+    AMZN = []
+    AMZNx = 0
+    for i in colAMZN.find():
+        AMZNx += 1
+        AMZNdict = {'tooltext': i['Date'], 'open': i['Open'], 'high': i['High'], 'low': i['Low'], 'close': i['Close'], 'volume': i['Volume'], 'x': AMZNx}
+        AMZN.append(AMZNdict)
+
+    colXOM = db["XOM"]
+
+    XOM = []
+    XOMx = 0
+    for i in colXOM.find():
+        XOMx += 1
+        XOMdict = {'tooltext': i['Date'], 'open': i['Open'], 'high': i['High'], 'low': i['Low'], 'close': i['Close'], 'volume': i['Volume'], 'x': XOMx}
+        XOM.append(XOMdict)
+
+    colAAPL = db["AAPL"]
+
+    AAPL = []
+    AAPLx = 0
+    for i in colAAPL.find():
+        AAPLx += 1
+        AAPLdict = {'tooltext': i['Date'], 'open': i['Open'], 'high': i['High'], 'low': i['Low'], 'close': i['Close'], 'volume': i['Volume'], 'x': AAPLx}
+        AAPL.append(AAPLdict)
+
+    colCVS = db["CVS"]
+
+    CVS = []
+    CVSx = 0
+    for i in colCVS.find():
+        CVSx += 1
+        CVSdict = {'tooltext': i['Date'], 'open': i['Open'], 'high': i['High'], 'low': i['Low'], 'close': i['Close'], 'volume': i['Volume'], 'x': CVSx}
+        CVS.append(CVSdict)
+
+    stockNames = ['WalMart', 'Amazon', 'ExxonMobil', 'Apple', 'CVS']
+    stockData = {'stockName': stockNames, 'WalMart': WMT, 'Amazon': AMZN, 'ExxonMobil': XOM, 'Apple': AAPL, 'CVS': CVS}
+
+    return jsonify(stockData)
 
 # Sector Page Rendering
 @app.route("/sector" , methods=['GET'])
