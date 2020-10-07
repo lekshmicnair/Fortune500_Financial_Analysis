@@ -9,9 +9,10 @@ function graphs(id) {
 
     d3.json(url).then((stockData) => {
         
-        var data = stockData[id];
+        var data1 = stockData.LabelPackage[id];
+        var data2 = stockData[id];
 
-        console.log(data)
+        console.log(data1)
 
         const dataSource = {
             chart: {
@@ -24,9 +25,14 @@ function graphs(id) {
                 vnumberprefix: "$",
                 vyaxisname: "Volume traded"
             },
+            categories: [
+                {
+                  category: data1
+                }
+              ],
             dataset: [
                 {
-                data: data
+                data: data2
                 }
             ]
             };

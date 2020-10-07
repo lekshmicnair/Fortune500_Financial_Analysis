@@ -22,7 +22,7 @@ d3.json(urlSector, function(SectorData) {
         type: "pie3d",
         renderAt: "chart-container",
         width: "100%",
-        height: "300%",
+        height: "350%",
         dataFormat: "json",
         dataSource
       }).render();
@@ -47,7 +47,7 @@ d3.json(urlSector, function(SectorData) {
         type: "pie3d",
         renderAt: "chart-container2",
         width: "100%",
-        height: "400%",
+        height: "190%",
         dataFormat: "json",
         dataSource
         }).render();
