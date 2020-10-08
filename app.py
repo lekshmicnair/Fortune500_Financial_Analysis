@@ -32,7 +32,7 @@ def stock_data():
     try:
         print("Data reader reading data from Yahoo finance...")
         load_stock_data.get_stock_info()
-        print("Stock data succefully loaded to Mongo.")
+        print("Stock data successfully loaded to Mongo.")
     except:
         print("Data load to Mongo failed. Please check the logs.")
 
