@@ -10,7 +10,7 @@
     	<script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
   
 	  <!-- Our CSS -->
-	  <link rel="stylesheet" href="style.css">
+	  <link rel="stylesheet" type="text/css" href="static/css/style.css">
 	</head>
 	<body>
 	 <!--Navbar-->
@@ -45,12 +45,17 @@
 	<!--Container class for plots -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-2">
+			<div class="col-md-3">
 			  <div class="well">
-				<h5>Select a Company</h5>
+				<h6>Use Drop Down to Load Data</h6>
 				<select id="selDataset" onchange="optionChanged(this.value)"></select>
 			  </div>
 			</div>
+			<div class="col-md-8">
+				<h1>Top 5 Fortune 500 Stock Analysis</h1>
+			</div>
+			<hr>
+		</div>
 	</div>
 	<div id="chart-container"></div>
     </body>

@@ -233,7 +233,7 @@ def stockData():
     # Put xaxis labels for each stock into one dictionary
     LabelPackage = {'WalMart': WMTLabels, 'Amazon': AMZNLabels, 'ExxonMobil': XOMLabels, 'Apple': AAPLLabels, 'CVS': CVSLabels}
     # Create list of company names to populate drop down in StockLogic.js
-    stockNames = ['WalMart', 'Amazon', 'ExxonMobil', 'Apple', 'CVS']
+    stockNames = ['Select A Stock','WalMart', 'Amazon', 'ExxonMobil', 'Apple', 'CVS']
     # Combine stockNames, stock data, and LabelPackage into one dictionary to be jsonified and returned
     stockData = {'stockName': stockNames, 'WalMart': WMT, 'Amazon': AMZN, 'ExxonMobil': XOM, 'Apple': AAPL, 'CVS': CVS,
         'LabelPackage': LabelPackage}

@@ -71,7 +71,7 @@ d3.json(urlSector, function(SectorData) {
           type: "doughnut2d",
           renderAt: "chart-container2",
           width: "100%",
-          height: "205%",
+          height: "260%",
           dataFormat: "json",
           dataSource
         }).render();

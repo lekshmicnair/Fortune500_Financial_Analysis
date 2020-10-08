@@ -62,7 +62,7 @@ d3.json(urlSector, function(SectorData) {
           type: "bar2d",
           renderAt: "chart-container2",
           width: "100%",
-          height: "200%",
+          height: "250%",
           dataFormat: "json",
           dataSource
         }).render();
