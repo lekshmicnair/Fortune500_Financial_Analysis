@@ -16,28 +16,18 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 
 
 
-
 // Assemble API query URL
 var url = "http://127.0.0.1:5000/api/map";
 
 // Grab the data with d3
 d3.json(url, function(response) {
 
-  //d3.request("http://127.0.0.1:5000/api/map").get(response => {
-    //console.log(JSON.parse(response.response));
-
-
-  
   console.log(response)
-  console.log("lets build the clusters")
+  console.log("Lets build the clusters")
   // Create a new marker cluster group
   var markers = L.markerClusterGroup();
-  console.log(Object.keys(response).length);
-  
   var arrayObject = Object.values(response);
-  console.log (arrayObject);
-  //console.log(arrayObject[6])
-
+  
   //Declare the variables
   var lat = arrayObject[5];
   var long = arrayObject[6];
@@ -45,24 +35,19 @@ d3.json(url, function(response) {
   var rank = arrayObject[11];
   var profit =arrayObject[10];
   var revenue = arrayObject[13];
-  console.log(long[0]);
+  var number_companies= Object.values(arrayObject[3]).length;
 
 // Loop through data
-for (var i = 0; i < 500; i++) {
-  //console.log(lat[i]);
-  //console.log(long[i]);
-  
+for (var i = 0; i < number_companies; i++) { 
   // Add a new marker to the cluster group and bind a pop-up
-  //
   markers.addLayer(L.marker(
   L.latLng(
       (lat[i]),
       (long[i])
     )
   ).bindPopup("Company:"+title[i]+"<br> Rank:"+rank[i]+"<br> Profit($M):"+profit[i]+"<br> Revenue($M):"+revenue[i]));
- // markers.addLayer(L.marker(parseFloat(lat[i]), parseFloat(long[i])).bindPopup(title[i]));
-  
-}
+ 
+};
   // Add our marker cluster layer to the map
   myMap.addLayer(markers);
 
