@@ -34,6 +34,6 @@ jquery
 Fusion charts
 
 INSTRUCTIONS TO RUN:
-Install pandas datareader (pip install pandas-datareader)
-Run csvManipulationMongoSetup.ipynb file to load the csv files to Mongo DB
-Run app.py
+Install pandas datareader (pip install pandas-datareader).
+Run csvManipulationMongoSetup.ipynb file to load the csv files to Mongo DB.
+Run app.py on the terminal.
