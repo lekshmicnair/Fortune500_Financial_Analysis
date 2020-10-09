@@ -11,7 +11,8 @@ d3.json(urlSector, function(SectorData) {
           subcaption: "In Millions",
           placevaluesinside: "1",
           showvalues: "0",
-          plottooltext: "<b>$dataValue</b> for the $label sector in $seriesName",
+          plottooltext: "<b>$$dataValue</b> for the $label sector in $seriesName",
+          formatNumberScale: "0",
           theme: "fusion"
         },
         categories: [
@@ -51,7 +52,7 @@ d3.json(urlSector, function(SectorData) {
           subcaption: "As Compared to 2019",
           yaxisname: "Percent Change",
           aligncaptionwithcanvas: "0",
-          plottooltext: "<b>$dataValue</b>% change",
+          plottooltext: "$label, <b>$dataValue</b>% change",
           theme: "fusion"
         },
         data: SectorData[5]

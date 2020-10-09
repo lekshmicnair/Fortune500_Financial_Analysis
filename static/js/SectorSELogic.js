@@ -13,7 +13,7 @@ d3.json(urlSector, function(SectorData) {
             showLegend: "0",
             enablemultislicing: "1",
             theme: "fusion",
-            plottooltext: "<b>$label</b>, $dataValue Companies",
+            plottooltext: "$label, <b>$dataValue</b> Companies",
         },
         data: SectorData[0]
     };
@@ -39,7 +39,7 @@ d3.json(urlSector, function(SectorData) {
         showLegend: "0",
         enablemultislicing: "1",
         theme: "fusion",
-        plottooltext: "<b>$label</b>, $dataValue Employees",
+        plottooltext: "$label, <b>$dataValue</b> Employees",
         },
         data: SectorData[1]
     };
