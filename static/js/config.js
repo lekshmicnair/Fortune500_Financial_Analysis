@@ -1,2 +1,3 @@
-// API key
-const API_KEY="pk.eyJ1IjoibWluZGllcGFpZ2UiLCJhIjoiY2tmNzRuYXRiMGJxZDJydDJmaDB0aWRjZiJ9.axosagi2CNlU8dhurKyKJQ"
+// Mapbox API key
+const API_KEY="pk.eyJ1IjoibGVrc2htaW5haXIiLCJhIjoiY2tmN2V1a3QwMDFvMDJ6cDlleWxlaXA3eCJ9.pSkyG-bhE0I4SXkhSg4X8g"
+//const API_KEY="pk.eyJ1IjoibWluZGllcGFpZ2UiLCJhIjoiY2tmNzRuYXRiMGJxZDJydDJmaDB0aWRjZiJ9.axosagi2CNlU8dhurKyKJQ"
