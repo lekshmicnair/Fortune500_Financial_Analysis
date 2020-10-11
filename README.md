@@ -36,6 +36,8 @@ Fusion charts
 INSTRUCTIONS TO RUN:
 1)Install pandas datareader (pip install pandas-datareader).
 
-2)Run csvManipulationMongoSetup.ipynb file to load the csv files to Mongo DB.
+2)Make sure Mongo DB is running.
 
-3)Run app.py on the terminal.(Please wait for "Stock data successfully loaded to Mongo." msg)
+3)Run csvManipulationMongoSetup.ipynb file to load the csv files to Mongo DB.
+
+4)Run app.py on the terminal.(Please wait for the following message- "Stock data successfully loaded to Mongo.")
