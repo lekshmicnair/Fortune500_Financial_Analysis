@@ -34,6 +34,7 @@ jquery
 Fusion charts
 
 INSTRUCTIONS TO RUN:
+
 1)Install pandas datareader (pip install pandas-datareader).
 
 2)Make sure Mongo DB is running.
